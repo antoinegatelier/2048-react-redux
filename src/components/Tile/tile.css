@@ -1,0 +1,73 @@
+.power1 {
+    background-color: #FFEE00;
+    color: black;
+}
+
+.power2 {
+    background-color: #F0BE00;
+}
+
+.power3 {
+    background-color: #FFA600;
+}
+
+.power4 {
+    background-color: #EB7100;
+}
+
+.power5 {
+    background-color: #FF6800;
+}
+
+.power6 {
+    background-color: #F03100;
+}
+
+.power7 {
+    background-color: #EB02A5;
+}
+
+.power8 {
+    background-color: #1700FF;
+}
+
+.power9 {
+    background-color: #0245EB;
+}
+
+.power10 {
+    background-color: #00A8FF;
+}
+
+.power11 {
+    background-color: #00E9F0;
+}
+
+.power12 {
+    background-color: #00FFA2;
+}
+
+.power13 {
+    background-color: #02EB39;
+}
+
+.power14 {
+    background-color: #33FF00;
+}
+
+.tile {
+    height: 5rem;
+    width: 5rem;
+    border-radius: 15px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: white;
+}
+
+.tile:hover {
+    background-color: rgba(0, 0, 0, 0.2);
+}
